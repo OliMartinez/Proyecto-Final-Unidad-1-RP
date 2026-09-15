@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+matplotlib>=3.8
+umap-learn>=0.5
